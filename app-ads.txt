@@ -1170,3 +1170,4 @@ opera.com, pub7275292332480, RESELLER, 55a0c5fd61378de3
 pubnative.net, 1007485, RESELLER, d641df8625486a7b
 rubiconproject.com, 16834, RESELLER, 0bfd66d529a55807
 loopme.com, 15629, RESELLER, 6c8d5f95897a5a3b
+facebook.com, 1232327955176310, DIRECT, c3e20eee3f780d68
