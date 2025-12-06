@@ -1041,7 +1041,6 @@ lijit.com,273050,RESELLER,fafdf38b16bf6b2b
 lijit.com,273644,RESELLER,fafdf38b16bf6b2b
 lijit.com,383910,RESELLER,fafdf38b16bf6b2b
 lijit.com,400766,RESELLER,fafdf38b16bf6b2b
-lijit.com,411121,RESELLER,fafdf38b16bf6b2b
 lijit.com,411915,DIRECT,fafdf38b16bf6b2b
 lijit.com,417620,RESELLER,fafdf38b16bf6b2b
 lijit.com,439432,RESELLER,fafdf38b16bf6b2b
@@ -1071,7 +1070,6 @@ lijit.com,535224,RESELLER,fafdf38b16bf6b2b
 lijit.com,543099,RESELLER,fafdf38b16bf6b2b
 lijit.com,543478,RESELLER,fafdf38b16bf6b2b
 lijit.com,549031,RESELLER,fafdf38b16bf6b2b
-lijit.com,558045,RESELLER,fafdf38b16bf6b2b
 lijit.com,563477,DIRECT,fafdf38b16bf6b2b
 lijit.com,569924,RESELLER,fafdf38b16bf6b2b
 lijit.com,582899,RESELLER,fafdf38b16bf6b2b
@@ -2278,7 +2276,6 @@ verve.com, 15503, RESELLER, 0c8f5958fc2d6270
 verve.com,14592,RESELLER,0c8f5958fc2d6270
 verve.com,14619,RESELLER,0c8f5958fc2d6270
 verve.com,15290,RESELLER,0c8f5958fc2d6270
-verve.com,15503,RESELLER,0c8f5958fc2d6270
 vidazoo.com, 1773068026, RESELLER, b6ada874b4d7d0b2
 vidazoo.com, 66e04f5e4d7fd89d878d29d2, RESELLER, b6ada874b4d7d0b2
 vidazoo.com, 6763f7632381fc1150a4f706, RESELLER
